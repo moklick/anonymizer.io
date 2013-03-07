@@ -1,4 +1,4 @@
-anonymizr
+Anonymizr
 =========
 
 Being faceless within seconds.
