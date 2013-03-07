@@ -1,5 +1,5 @@
-Anonymizr
-=========
+Anonymizr - faceless within seconds
+===================================
 
-Just upload your photos to be faceless within seconds.  
-Anonymizr uses the face detection plugin of Jay Salvat (https://github.com/jaysalvat/jquery.facedetection)
+Anonymizr is a tool to pixelate faces. You can upload your own photos and play with six different levels of pixelation.  
+For the face detection I use the great face detection plugin of Jay Salvat (https://github.com/jaysalvat/jquery.facedetection).
